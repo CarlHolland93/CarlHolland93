@@ -17,6 +17,6 @@ graph below is busier than the list of repos. These are the pieces I can show.
   is four ideas for the chat input box, covering prompt quality, context
   budget, intent and model choice. Nothing calls a model.
 
-The case studies, and a chat you can ask about my work, are on
+More about me and my work here: 
 [charlieholland.com](https://charlieholland.com).
 [LinkedIn](https://www.linkedin.com/in/charlie-holland)
