@@ -10,6 +10,9 @@ graph below is busier than the list of repos. These are the pieces I can show.
 
 ## Prototypes you can run
 
+- [float](https://github.com/CarlHolland93/float) lets you move the chat input around
+  the page and use blur to focus on individual cards.
+  [Try the demo](https://carlholland93.github.io/float/).
 - [tread](https://github.com/CarlHolland93/tread) points a phone at a running
   shoe and scores its wear with Claude vision. It only names the shoe from text
   it can read on it.
